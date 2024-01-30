@@ -2,7 +2,7 @@
 <h3 align="center">A passionate full-stack developer from Sri Lanka</h3>
 
 - 🌱 I’m currently learning **Spring boot**
--🧑‍🎓 I’m an Undergraduate at **SLIIT**
+- 🧑‍🎓 I’m an Undergraduate at **SLIIT**
 - 📫 How to reach me **vinujahansindu765@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
